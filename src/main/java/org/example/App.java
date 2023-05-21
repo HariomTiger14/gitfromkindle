@@ -13,5 +13,7 @@ public class App
         System.out.println("code line added on git hub website");
         System.out.println("code line 2 added on git hub website");
         System.out.println("code line added not knowing that code line 2 added on git hub website");
+        System.out.println("code line added to practice the local push overwriting what is there on github repo");
+        
     }
 }
