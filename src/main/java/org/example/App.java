@@ -20,5 +20,6 @@ public class App
         System.out.println("code line 3 on practice branch");
         System.out.println("code line 4 on pratice branch");
         System.out.println("code line added from github main branch 22 may 2023");
+        System.out.println("code line 1 added by developer 2");
     }
 }
