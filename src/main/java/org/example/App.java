@@ -28,5 +28,6 @@ public class App
         System.out.println("code line added by developer 1 in practice branch");
         System.out.println("code line 1 added by developer 2");
         System.out.println(App.myAspirations(1));
+        System.out.println("all code synced at developer 1 end");
     }
 }
