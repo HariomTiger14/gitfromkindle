@@ -19,6 +19,5 @@ public class App
         System.out.println("code line 2 on practice branch");
         System.out.println("code line 3 on practice branch");
         System.out.println("code line 4 on pratice branch");
-
     }
 }
