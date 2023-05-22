@@ -7,9 +7,9 @@ package org.example;
 public class App 
 {
 
-    public static int myAspirations(int b)
+    public static String myAspirations(int b)
     {
-        return 189;
+        return "GRANTED";
     }
     public static void main( String[] args )
     {
